@@ -21,7 +21,6 @@ namespace api_cadastro.Service.Configuration
             //_service.Configure<AppSettings>(_configuration);
             //_service.Configure<SQLServerSettings>(_configuration.GetSection("SQLServerSettings"));
             #endregion
-            
 
             #region UseCases
 
