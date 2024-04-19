@@ -11,12 +11,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.1" />
+    <PackageReference Include="Npgsql" Version="8.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Adapters\Outbound\" />
-    <Folder Include="Domain\Core\Ports\Outbound\" />
   </ItemGroup>
 
 </Project>

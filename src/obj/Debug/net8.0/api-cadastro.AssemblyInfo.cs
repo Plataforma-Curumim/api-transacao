@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-cadastro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+08990079fc41d1c259fdbf6b19d18f1cbabfadd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a1e140482b79847770459a36a4d4fa13606455d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-cadastro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-cadastro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
