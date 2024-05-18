@@ -13,6 +13,7 @@ namespace api_cadastro.Adapters.Outbound.Database.Postgres
         {
             _isConnect = false;
             //_connectionString = "Host=my_host;Port=port_number;Database=database_name;User Id = username;Password=password;";
+            _connectionString = Environment.GetEnvironmentVariable("DATABASE_URL")!;
             _connection = new NpgsqlConnection(_connectionString);
         }
 
