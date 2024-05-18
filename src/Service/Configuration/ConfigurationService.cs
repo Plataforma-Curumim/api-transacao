@@ -1,4 +1,6 @@
-﻿using api_cadastro.Domain.Core.Ports.Inbound.UseCases;
+﻿using api_cadastro.Adapters.Outbound.Database.Configuration;
+using api_cadastro.Domain.Core.Ports.Inbound.UseCases;
+using api_cadastro.Domain.Core.Ports.Inbound.UseCases.Configuration;
 using api_cadastro.Domain.UseCases;
 
 namespace api_cadastro.Service.Configuration
@@ -17,21 +19,13 @@ namespace api_cadastro.Service.Configuration
         public void AddServices()
         {
 
+            UseCaseConfigurationService.AddUseCase(_service);
+            ConfigurationDBService.AddDBService(_service);
+
+
             #region AppSetings
             //_service.Configure<AppSettings>(_configuration);
             //_service.Configure<SQLServerSettings>(_configuration.GetSection("SQLServerSettings"));
-            #endregion
-
-            #region UseCases
-
-           _service.AddScoped<IUseCaseCadastrarUsuario, UseCaseCadastrarUsuario>();
-
-            #endregion
-
-            #region Repositorys
-
-            //_service.AddScoped<ISQLServer, SQLServerService>();
-
             #endregion
         }
     }
