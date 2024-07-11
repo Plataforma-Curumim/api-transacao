@@ -1,2 +1,2 @@
-# api-cadastro
-api de cadastro de livros e usuários
+# api-transacao
+api de transação de empréstimos e devoluções de livros
