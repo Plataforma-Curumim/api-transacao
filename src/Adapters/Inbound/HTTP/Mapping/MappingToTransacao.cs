@@ -19,7 +19,7 @@ namespace api_cadastro.Adapters.Inbound.HTTP.Mapping
                 Telefone = request.Telefone,
                 Endereco = request.Endereco,
                 IdRfid = request.IdRfid,
-                Situacao = request.Situacao switch
+                Status = request.Status switch
                 {
                     0 => EnumSituacaoUsuario.ATIVO,
                     1 => EnumSituacaoUsuario.ATIVO,
@@ -36,3 +36,4 @@ namespace api_cadastro.Adapters.Inbound.HTTP.Mapping
         }
     }
 }
+

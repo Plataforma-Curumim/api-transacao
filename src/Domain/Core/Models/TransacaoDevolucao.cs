@@ -4,6 +4,8 @@ namespace api_cadastro.Domain.Core.Models
 {
     public record TransacaoDevolucao
     {
+        public EnumSituacaoLivro SituacaoLivro { get; set; }
+
         public required string IdRfidUsuario { get; set; } // id do usuário
         public required string IdRfidLivro { get; set; } // id do livro
 
