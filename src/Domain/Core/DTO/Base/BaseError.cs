@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace api_cadastro.Domain.Core.Base
+namespace api_transacao.Application.Domain.DTO.Base
 {
     public record BaseError
     {

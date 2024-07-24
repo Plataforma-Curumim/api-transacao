@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api-cadastro.csproj": {}
+    "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api_transacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api-cadastro.csproj": {
+    "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api_transacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api-cadastro.csproj",
-        "projectName": "api-cadastro",
-        "projectPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api-cadastro.csproj",
+        "projectUniqueName": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api_transacao.csproj",
+        "projectName": "api_transacao",
+        "projectPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api_transacao.csproj",
         "packagesPath": "C:\\Users\\Isadora\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\obj\\",
         "projectStyle": "PackageReference",

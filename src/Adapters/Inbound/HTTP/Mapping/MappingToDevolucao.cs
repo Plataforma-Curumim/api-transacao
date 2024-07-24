@@ -19,7 +19,7 @@ namespace api_transacao.Adapters.Inbound.HTTP.Mapping
                     0 => EnumSituacaoLivro.DISPONIVEL,
                     1 => EnumSituacaoLivro.EMPRESTADO,
 
-                }
+                } // Adicionar validação de request.
             };
         }
     }

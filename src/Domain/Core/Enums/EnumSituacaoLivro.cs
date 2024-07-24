@@ -1,4 +1,4 @@
-﻿namespace api_cadastro.Domain.Core.Enums
+﻿namespace api_transacao.Domain.Core.Enums
 {
     public enum EnumSituacaoLivro
     {

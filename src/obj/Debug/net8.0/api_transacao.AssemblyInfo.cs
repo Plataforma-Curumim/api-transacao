@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("api-cadastro")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("api_transacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e3d74c28a4ade9029a688d559942c6639576f42f")]
-[assembly: System.Reflection.AssemblyProductAttribute("api-cadastro")]
-[assembly: System.Reflection.AssemblyTitleAttribute("api-cadastro")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c7836c8617e67567389291a89166a41ab6f5f35f")]
+[assembly: System.Reflection.AssemblyProductAttribute("api_transacao")]
+[assembly: System.Reflection.AssemblyTitleAttribute("api_transacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

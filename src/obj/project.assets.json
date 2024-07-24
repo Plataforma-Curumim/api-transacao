@@ -645,11 +645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isadora\\Desktop\\api-transacao\\api-cadastro\\src\\api-cadastro.csproj",
-      "projectName": "api-cadastro",
-      "projectPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\api-cadastro\\src\\api-cadastro.csproj",
+      "projectUniqueName": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api_transacao.csproj",
+      "projectName": "api_transacao",
+      "projectPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\api_transacao.csproj",
       "packagesPath": "C:\\Users\\Isadora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\api-cadastro\\src\\obj\\",
+      "outputPath": "C:\\Users\\Isadora\\Desktop\\api-transacao\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isadora\\AppData\\Roaming\\NuGet\\NuGet.Config",

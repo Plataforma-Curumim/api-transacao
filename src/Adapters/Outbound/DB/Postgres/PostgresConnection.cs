@@ -1,4 +1,4 @@
-﻿using api_cadastro.Domain.Core.Base;
+﻿using api_cadastro.Domain.Core.DTO.Base;
 using api_cadastro.Domain.Core.Ports.Outbound.DB;
 using Npgsql;
 

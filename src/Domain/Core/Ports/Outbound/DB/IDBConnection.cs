@@ -1,4 +1,4 @@
-﻿using api_cadastro.Domain.Core.Base;
+﻿using api_cadastro.Domain.Core.DTO.Base;
 
 namespace api_cadastro.Domain.Core.Ports.Outbound.DB
 {
