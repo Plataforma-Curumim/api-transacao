@@ -1,4 +1,4 @@
-using api_cadastro.Domain.Core.Enums;
+using api_transacao.Domain.Core.Enums;
 using api_transacao.Adapters.Inbound.HTTP.VM;
 using api_transacao.Domain.Core.Enums;
 using api_transacao.Domain.Core.Models;

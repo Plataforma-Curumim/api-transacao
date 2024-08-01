@@ -1,4 +1,4 @@
-﻿namespace api_cadastro.Domain.Core.Ports.Outbound.DB
+﻿namespace api_transacao.Domain.Core.Ports.Outbound.DB
 {
     public interface IDBRepository
     {

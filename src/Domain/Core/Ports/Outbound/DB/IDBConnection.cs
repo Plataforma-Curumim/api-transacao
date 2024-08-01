@@ -1,6 +1,6 @@
-﻿using api_cadastro.Domain.Core.DTO.Base;
+﻿using api_transacao.Domain.Core.DTO.Base;
 
-namespace api_cadastro.Domain.Core.Ports.Outbound.DB
+namespace api_transacao.Domain.Core.Ports.Outbound.DB
 {
     public interface IDBConnection
     {

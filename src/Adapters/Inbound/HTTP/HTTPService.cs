@@ -1,9 +1,9 @@
-﻿using api_cadastro.Adapters.Inbound.HTTP.VM;
-using api_cadastro.Domain.Core.Ports.Inbound.UseCases;
-using api_cadastro.Adapters.Inbound.HTTP.Mapping;
-using api_cadastro.Domain.Core.Base;
+﻿using api_transacao.Adapters.Inbound.HTTP.VM;
+using api_transacao.Domain.Core.Ports.Inbound.UseCases;
+using api_transacao.Adapters.Inbound.HTTP.Mapping;
+using api_transacao.Domain.Core.Base;
 
-namespace api_cadastro.Adapters.Inbound.HTTP
+namespace api_transacao.Adapters.Inbound.HTTP
 {
     public static class HTTPService
     {

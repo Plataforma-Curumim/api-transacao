@@ -1,4 +1,4 @@
-﻿namespace api_cadastro.Adapters.Inbound.HTTP.VM
+﻿namespace api_transacao.Adapters.Inbound.HTTP.VM
 {
     public class RequestDevolucao
     {

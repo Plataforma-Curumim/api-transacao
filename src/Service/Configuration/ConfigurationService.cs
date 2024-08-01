@@ -1,9 +1,9 @@
-﻿using api_cadastro.Adapters.Outbound.Database.Configuration;
-using api_cadastro.Domain.Core.Ports.Inbound.UseCases;
-using api_cadastro.Domain.Core.Ports.Inbound.UseCases.Configuration;
-using api_cadastro.Domain.UseCases;
+﻿using api_transacao.Adapters.Outbound.Database.Configuration;
+using api_transacao.Domain.Core.Ports.Inbound.UseCases;
+using api_transacao.Domain.Core.Ports.Inbound.UseCases.Configuration;
+using api_transacao.Domain.UseCases;
 
-namespace api_cadastro.Service.Configuration
+namespace api_transacao.Service.Configuration
 {
     public class ConfigurationService
     {

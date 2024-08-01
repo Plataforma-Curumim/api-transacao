@@ -1,0 +1,8 @@
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.csproj.AssemblyReference.cache
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.AssemblyInfoInputs.cache
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.AssemblyInfo.cs
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.csproj.CoreCompileInputs.cache
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Isadora\Desktop\api-transacao\src\obj\Debug\net8.0\api_transacao.sourcelink.json

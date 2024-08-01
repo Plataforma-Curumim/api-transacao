@@ -1,6 +1,6 @@
-﻿using api_cadastro.Domain.Core.Enums;
+﻿using api_transacao.Domain.Core.Enums;
 
-namespace api_cadastro.Domain.Core.Models
+namespace api_transacao.Domain.Core.Models
 {
     public record TransacaoUsuario
     {

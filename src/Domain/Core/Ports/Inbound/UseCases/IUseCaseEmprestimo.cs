@@ -1,4 +1,4 @@
-﻿using api_cadastro.Domain.Core.DTO.Base;
+﻿using api_transacao.Domain.Core.DTO.Base;
 using api_transacao.Domain.Core.Models;
 using api_transacao.Domain.Core.DTO.Command;
 

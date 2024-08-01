@@ -1,8 +1,8 @@
-﻿using api_cadastro.Adapters.Inbound.HTTP.VM;
-using api_cadastro.Domain.Core.Enums;
-using api_cadastro.Domain.Core.Models;
+﻿using api_transacao.Adapters.Inbound.HTTP.VM;
+using api_transacao.Domain.Core.Enums;
+using api_transacao.Domain.Core.Models;
 
-namespace api_cadastro.Adapters.Inbound.HTTP.Mapping
+namespace api_transacao.Adapters.Inbound.HTTP.Mapping
 {
     public static class MappingToTransacao
     {

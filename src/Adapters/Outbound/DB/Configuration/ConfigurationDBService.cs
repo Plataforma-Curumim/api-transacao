@@ -1,7 +1,7 @@
-﻿using api_cadastro.Adapters.Outbound.Database.Postgres;
-using api_cadastro.Domain.Core.Ports.Outbound.DB;
+﻿using api_transacao.Adapters.Outbound.Database.Postgres;
+using api_transacao.Domain.Core.Ports.Outbound.DB;
 
-namespace api_cadastro.Adapters.Outbound.Database.Configuration
+namespace api_transacao.Adapters.Outbound.Database.Configuration
 {
     public static class ConfigurationDBService
     {

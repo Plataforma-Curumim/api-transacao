@@ -1,8 +1,8 @@
-﻿using api_cadastro.Domain.Core.DTO.Base;
-using api_cadastro.Domain.Core.Ports.Outbound.DB;
+﻿using api_transacao.Domain.Core.DTO.Base;
+using api_transacao.Domain.Core.Ports.Outbound.DB;
 using Npgsql;
 
-namespace api_cadastro.Adapters.Outbound.Database.Postgres
+namespace api_transacao.Adapters.Outbound.Database.Postgres
 {
     public class PostgresConnection : IDBConnection
     {
